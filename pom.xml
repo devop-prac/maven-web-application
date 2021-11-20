@@ -12,7 +12,7 @@
 	<description>Maven Web Project for Java Programming Language</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
+		<name>Ahmed Heena</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.109.4.97:9000/</sonar.host.url>
+		<sonar.host.url>http://13.126.90.162:9000/</sonar.host.url>
 		  <sonar.login>3c51307548a80c0a37462d5c2dab8c7107d963f2</sonar.login>
          
 		<!--  <sonar.login>admin</sonar.login>
@@ -100,14 +100,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.173.216:8081/repository/flipkart-release/</url>
+	      <name>Ahmeds Releases Nexus Repository</name>
+	      <url>http://65.1.112.92:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.173.216:8081/repository/flipkart-Snapshot/</url>
+	      <name>Heena Snapshot Nexus Repository </name>
+	      <url>http://65.1.112.92:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
